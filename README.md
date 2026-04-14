@@ -60,8 +60,7 @@ Feature Importance: Assessed using permutation importance.
 Python- Jupyter Notebook
 * Key Libraries:
 pandas, numpy, scikit-learn, matplotlib & seaborn, statsmodels 
-Data Source
-AHRQ HCUP National Inpatient Sample (NIS)
+
 #### Key Features
 Race-Specific Analysis: Focus exclusively on non-Hispanic Black women.
 Nationally Representative Estimates: Use of NIS discharge weights.
