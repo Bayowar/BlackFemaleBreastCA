@@ -57,14 +57,9 @@ Evaluation Metric: Area Under the ROC Curve (AUC)
 Best Performance: Elastic Net (AUC ≈ 0.69)
 Feature Importance: Assessed using permutation importance.
 #### Technologies Used
-Python
-Jupyter Notebook
+Python- Jupyter Notebook
 Key Libraries
-pandas 
-numpy 
-scikit-learn 
-matplotlib & seaborn 
-statsmodels 
+pandas, numpy, scikit-learn, matplotlib & seaborn, statsmodels 
 Data Source
 AHRQ HCUP National Inpatient Sample (NIS)
 #### Key Features
