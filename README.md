@@ -85,7 +85,7 @@ Targeted Screening Initiatives in low-income communities.
 Standardization of Inpatient Cancer Care to mitigate the “place effect.”
 #### How to Run the Project
 1. Clone the Repository
-git clone https://github.com/yourusername/place-matters-breast-cancer.git
+git clone https://github.com/Bayowar/BlackFemaleBreastCA.git
 cd place-matters-breast-cancer
 2. Install Required Packages
 Using pip:
