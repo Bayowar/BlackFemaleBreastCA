@@ -15,7 +15,7 @@ Provide policy-relevant insights to reduce racial disparities in breast cancer o
 ### Data Source
 National Inpatient Sample (NIS) – 2021
 Provider: Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP)
-Sample: 5,933 hospitalizations of non-Hispanic Black women with breast cancer.
+Sample: 5,934 hospitalizations of non-Hispanic Black women with breast cancer.
 Design: Nationally representative inpatient database using discharge weights.
 Access: https://www.hcup-us.ahrq.gov/nisoverview.jsp
 (Note: HCUP data require a Data Use Agreement and are not publicly distributable.)
@@ -97,3 +97,5 @@ jupyter notebook
 4. Run the Analysis
 Open the main notebook file:
 Place_Matters_Breast_Cancer_Mortality.ipynb
+
+[**Datastory and Launch Interactive Dashboard**](https://bayowar.github.io/BlackFemaleBreastCADashboard_Story.html/blackfemalebreastcancerstructuralgapmodel.html)
